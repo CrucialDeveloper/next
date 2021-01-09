@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Is this caching? Again?</h1>
+        <h1 className={styles.title}>Is this caching? Again? and Again??</h1>
 
         <p className={styles.description}>
           Get started by editing{" "}
